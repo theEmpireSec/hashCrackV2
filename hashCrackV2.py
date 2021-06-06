@@ -12,8 +12,8 @@ print('='*70)
 print('Author~≥ King')
 print('—'*40)
 
-print('Instagram~≥ hacking_with_king')
-print('Github~≥ KING3140')
+print('Instagram ~≥ @the.empiresec')
+print('Github    ~≥ https://github.com/theEmpireSec/ ')
 print('—'*40)
 
 print('='*70)
